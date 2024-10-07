@@ -34,10 +34,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muskan-bhatt249&theme=radical" alt="Contribution stats" />
 </p>
+
 ### 📫 How to reach me
 - Email: [bhattmuskan249@gmail.com](mailto:bhattmuskan249@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile): Let's connect on LinkedIn!
-- [Twitter](https://twitter.com/yourprofile): Follow me for updates!
+- [LinkedIn](https://www.linkedin.com/in/muskan-bhatt-2885622b6/): Let's connect on LinkedIn!
 
 ### 🤝 Open to Collaboration
 Feel free to reach out if you want to collaborate on any of the projects or have exciting opportunities.
@@ -46,6 +46,7 @@ Feel free to reach out if you want to collaborate on any of the projects or have
 - 🙃 Passionate about strange things.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcl3ijl0e6wYnjq/giphy.gif" alt="Coder" />
+  <img src="https://media.giphy.com/media/YiLSZq5wuhIVH9wQQk/giphy.gif" alt="Cool Tech GIF" />
 </p>
+
 
