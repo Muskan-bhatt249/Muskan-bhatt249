@@ -47,6 +47,3 @@ Feel free to reach out if you want to collaborate on any of the projects or have
 - 🔭 I'm always learning something new!
 - 🙃 Passionate about strange things.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcl3ijl0e6wYnjq/giphy.gif" alt="Coder" />
-</p>
