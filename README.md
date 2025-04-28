@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7246D&width=435&lines=Hi%2C+I'm+%F0%9F%91%8B+Muskan-bhatt249!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7246D&width=435&lines=Hi%2C+I'm+%F0%9F%91%8B+Muskan-Bhatt!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
 ### Technologies
@@ -14,12 +14,12 @@
 ### 🌱 Currently Learning
 
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-4B8BBE?style=flat-square&logo=java&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 💻 Interested in
 - Open Source Contributions
 - Web Development Projects
-- Machine Learning and AI
+- Java and DSA
 
 ### 📊 GitHub Stats
 
